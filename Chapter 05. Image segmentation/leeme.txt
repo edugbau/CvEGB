@@ -1,0 +1,1 @@
+al transformar a pdf desde colab se ha roto el formato, en el cuaderno se ve todo bien
